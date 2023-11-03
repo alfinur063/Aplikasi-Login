@@ -7,3 +7,4 @@ Alur Fitur Login:
   2. Memvalidasi masukan.
   3. Menampilkan halaman home.
   4. menampilkan halaman sepak bola hahahha.
+  5. menampilkan sebuah kata kata makanan enak
